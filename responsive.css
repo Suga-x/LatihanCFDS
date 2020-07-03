@@ -10,6 +10,9 @@
 	.btn {
     	width: 100%;
   }
+  .food-icon {
+  	width: 100%;
+  }
   .makan{
   	margin-bottom: 10px;
   }
@@ -34,8 +37,9 @@
     	font-size: 14px;
     	line-height: 20px;
   }
-  .food-icon img{
-  	width: 100%;
+  
+  .food-icon{
+  	position: relative;
   }
   .heading h2 {
     	font-size: 20px;

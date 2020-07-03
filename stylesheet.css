@@ -26,11 +26,12 @@ a {
   z-index: 10;
 }
 
-.header-logo {
+.header-logo img{
   width:80px;
   height:80px;
   float: left;
   margin-top: 20px:
+  margin-left:10px; 
 
 }
 

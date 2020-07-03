@@ -39,7 +39,7 @@
   }
   
   .food-icon{
-  	position: relative;
+  	display: block;
   }
   .heading h2 {
     	font-size: 20px;

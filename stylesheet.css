@@ -26,11 +26,11 @@ a {
   z-index: 10;
 }
 
-.header-logo img{
+.header-logo {
   width:80px;
   height:80px;
   float: left;
-  margin-top: 20px: 
+  margin-top: 20px:
 
 }
 
@@ -193,8 +193,8 @@ a {
   color: white;
 }
 
-.heading {
-  padding-top: 350px;
+.heading2 {
+  padding-top: 50px;
   padding-bottom: 10px;
   color: #5f5d60;
   font-family:arial;

@@ -1,0 +1,99 @@
+@media all and (max-width: 670px) {
+	.footer{
+		width:100%;
+		height:300px;
+	}
+	.container .footer1 h1{
+		 font-size:18px
+	 }
+	.container .footer2 h1{
+	     font-size:14px;
+		 text-align:center;
+		 padding-left:0;
+		 margin-top:35px;
+		 margin-bottom:4px;
+	}
+    .footer1 p{
+		font-size:14px;
+		text-align:justify;
+	}
+	.footer2 img {
+	    display:inline;
+	    width:15px;
+	}
+	.footer .facebook {
+		margin-left:32%;
+	}
+	hr {
+	margin-top:0;
+	}
+	.btn {
+    width: 100%;
+  }
+  .makan{
+  	margin-bottom: 10px;
+  }
+  .top-wrap{
+  	text-align: left;
+  }
+  .header-log{
+  	display: none;
+  }
+  .menu-icon{
+  	display:block; ;
+  }
+  .top-wrap h1 {
+   		font-size: 24px;
+    	line-height: 36px;
+  }  
+  .top-wrap h2{
+  		font-size: 20px;
+    	line-height: 30px;
+  }
+  .top-wrap h4 {
+    	font-size: 14px;
+    	line-height: 20px;
+  }
+}
+
+@media all and (max-width: 1000px){
+	.footer{
+		width:50%;
+		height:300px;
+	}
+	.container .footer1 h1{
+		 font-size:18px
+	 }
+	.container .footer2 h1{
+	     font-size:14px;
+		 text-align:center;
+		 padding-left:0;
+		 margin-top:35px;
+		 margin-bottom:4px;
+	}
+    .footer1 p{
+		font-size:14px;
+		text-align:justify;
+	}
+	.footer2 img {
+	    display:inline;
+	    width:15px;
+	}
+	.footer .facebook {
+		margin-left:32%;
+	}
+	hr {
+	margin-top:0;
+	}
+	.j-makanan {
+   		width: 50%;
+    	margin-bottom: 50px;
+  	}
+  	.top-wrap h1 {
+    	font-size: 32px;
+  	}
+  	.heading h2 {
+    	font-size: 20px;
+  	}
+
+}
